@@ -1,0 +1,8 @@
+Copy  ( copy files to another location)
+Dir      (display files and folders in current directory)
+Del      (delete files)
+Move  (move files to one location to another location)
+Cd        (change directory)
+Tree    (show directory structure of file & folder)
+Rename(rename a file or dir)
+Find    (to find a text string)
