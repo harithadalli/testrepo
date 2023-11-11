@@ -1,0 +1,3 @@
+sudo systemctl status servicename
+du -sh /*
+cat /etc/os-release   #it will show os
