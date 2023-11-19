@@ -1,3 +1,14 @@
 sudo systemctl status servicename
 du -sh /*
 cat /etc/os-release   #it will show os
+hostnamectl set-hostname givehostname
+semanage port -l | grep http
+semanage fcontest -l | grep http
+gpasswd -M u.s1,u.s2,u.s3 groupname (add multiple users at a time in group)
+gpasswd -a username groupname (add oneuser in group)
+tar -cvf dirname.tar dirname (to pack or compress)
+zip dir.tar (to zip )
+tar -xvf diename.tar (remove pack)
+gunzip dirname.tar.gz (to remove zip)
+tar -xvzf diename.tar.gz (removep pack & remove zip at a time)
+netstat -nltp (to check ports)
