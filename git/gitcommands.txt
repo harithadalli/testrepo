@@ -2,3 +2,11 @@ git status
 git add filename
 git commit -m "commit"
 git push -u origin branchname
+git clone url
+git merge branchname (we should be in main branch)
+git log --oneline
+git log
+git branch
+git checkout branchname
+git version
+vim .gitignore
